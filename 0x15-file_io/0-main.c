@@ -3,9 +3,9 @@
 #include "main.h"
 
 /**
- * main - checks on the code line.
+ * main - checking code line.
  *
- * Return: returns 0.
+ * Return:  0.
  */
 int main(int ac, char **av)
 {
