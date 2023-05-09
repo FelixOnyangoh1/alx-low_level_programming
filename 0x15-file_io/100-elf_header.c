@@ -270,7 +270,7 @@ void close_elf( elf)
  * Description: if file is not ELF File or
  *  function fail - exit code 98.
  */
-int main(__attribute__((__unused__)) argc, char *argv[])
+int main(__attribute__argc, char *argv[])
 {
 	Elf64_Ehdr *header;
 	int o, r;

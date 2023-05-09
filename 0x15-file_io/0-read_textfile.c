@@ -8,7 +8,7 @@
  * Return: returns W-  n0 of bytes read & prints.
  *      and 0 when function fail or filename nULL.
  */
-int ssize_t = read_textfile(const char *filename, size_t letters)
+ssize_t read_textfile(const char *filename, size_t letters)
 {
 	char *buf;
 	ssize_t fd;
