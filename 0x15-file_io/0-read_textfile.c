@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * textfile- reads txt file and  print output STDOUT.
+ * read_textfile- reads txt file and  print output STDOUT.
  * @filename: txt Read
  * @letters: reading n0 letters
  * Return: returns W-  n0 of bytes read & prints.
